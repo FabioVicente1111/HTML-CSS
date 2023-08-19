@@ -1,4 +1,4 @@
 # copia do celular para o termux
 
-cp -r /data/data/com.termux/files/home/storage/shared/Download/Cursos/Curso_em_video/html-css/* ~/projetos/HTML-CSS/HTML-CSS/
+cp -r /data/data/com.termux/files/home/storage/shared/Download/Cursos/Curso_em_video/html-css/* ~/projetos/HTML-CSS/
 
