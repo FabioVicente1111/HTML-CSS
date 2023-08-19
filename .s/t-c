@@ -1,0 +1,4 @@
+# Copia do termux para o celular
+
+cp -r ~/projetos/HTML-CSS/* /data/data/com.termux/files/home/storage/shared/Download/Cursos/Curso_em_video/html-css/
+
