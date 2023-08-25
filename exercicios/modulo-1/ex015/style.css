@@ -1,17 +1,17 @@
 @charset="utf-8";
 
 body {
-            background-color: #00c2ff;
-            font-family: arial;
-            font-size: 15px;          
+        background-color: #00c2ff;
+        font-family: arial;
+        font-size: 15px;          
         }
 h1{
-            background-color: #1c15ff;
-            color: #ff2a36;
+        background-color: #1c15ff;
+        color: #ff2a36;
         }
-        h2{
-            color: #28ff00;
+h2{
+        color: #28ff00;
         }
-        p{
-            text-align: justify;
+p{
+        text-align: justify;
         }
